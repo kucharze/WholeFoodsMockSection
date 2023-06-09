@@ -148,7 +148,7 @@ li {
 }
 .logopic2 {
   /* width: 20%; */
-  margin-left: 20px;
+  margin-left: 40px;
   padding: 20px;
 }
 .copyright {
@@ -160,7 +160,36 @@ li {
   list-style: none;
   margin-left: 30px;
 }
+.footersection {
+  color: white;
+}
+.contentsection {
+  display: flex;
+  justify-content: space-around;
+}
 .amazon {
   color: white;
   text-align: center;
+}
+.NeedHelp {
+  border-left: solid white;
+  padding-left: 40px;
+}
+.shopping {
+  margin-bottom: 25px;
+}
+.shop {
+  list-style: none;
+}
+.email {
+  background-color: #006936;
+  color: white;
+  height: 50px;
+  margin-left: 10px;
+}
+.Socials {
+  height: 70px;
+}
+.amazon {
+  height: 35px;
 }
