@@ -120,13 +120,14 @@ li {
   display: flex;
   /* text-n: center; */
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 .bigpic {
-  margin: 0px 20px 0px 180px;
-  width: 80%;
+  margin: 0px 0px 0px 150px;
+  /* width: 50%; */
 }
 .bigpicture {
-  height: 80%;
+  height: 90%;
   /* margin-left: 100px; */
 }
 .recinfo {
@@ -136,8 +137,8 @@ li {
   font-size: 16px;
 }
 .biginfo {
-  margin: 150px 70px 0px 0px;
-  width: 60%;
+  margin: 100px 20px 0px 0px;
+  width: 40%;
   /* text-align: center; */
 }
 .getRecipies {
