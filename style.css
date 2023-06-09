@@ -1,5 +1,5 @@
 .header {
-  background-color: Darkgreen;
+  background-color: #004e36;
   display: flex;
 }
 .navlist {
@@ -34,9 +34,9 @@ li {
   text-align: right;
   background-color: lightgray;
   /* display: flex; */
-  height: 40px;
+  height: 30px;
   /* margin-right: 20px; */
-  color: darkgreen;
+  color: #004e36;
 }
 .arrow {
   margin-left: 10px;
@@ -79,32 +79,52 @@ li {
 }
 .whole {
   text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
 .rowitem {
   height: 200px;
 }
 .Recipesname {
-  color: darkgreen;
+  color: #004e36;
+}
+.getRecipies {
+  margin-left: 100px;
+  height: 40px;
+  width: 180px;
+  font-size: 16px;
 }
 .bigsection {
   display: flex;
   /* text-n: center; */
+  justify-content: space-between;
 }
 .bigpic {
-  margin: 0px 50px 0px 90px;
+  margin: 0px 20px 0px 180px;
   width: 80%;
 }
 .bigpicture {
-  height: 90%;
+  height: 80%;
+  /* margin-left: 100px; */
 }
 .recinfo {
-  margin-left: 100px;
+  margin-left: 50px;
   /* padding-left: 50px; */
+  width: 60%;
+  font-size: 16px;
 }
 .biginfo {
-  margin: 160px 20px 0px 0px;
-  width: 70%;
+  margin: 150px 70px 0px 0px;
+  width: 60%;
   /* text-align: center; */
+}
+.getRecipies {
+  background-color: #004e36;
+  color: white;
+}
+.biginfo h1 {
+  font-size: 45px;
+  margin-right: 20px;
 }
 .row1 {
   display: flex;
@@ -123,7 +143,7 @@ li {
   justify-content: space-evenly;
 }
 .footersection {
-  background-color: darkgreen;
+  background-color: #004e36;
   height: 500px;
 }
 .logopic2 {
@@ -132,11 +152,15 @@ li {
   padding: 20px;
 }
 .copyright {
-  background-color: green;
+  background-color: #006936;
 }
 #copylist {
   color: black;
   display: flex;
   list-style: none;
   margin-left: 30px;
+}
+.amazon {
+  color: white;
+  text-align: center;
 }
