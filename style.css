@@ -182,10 +182,12 @@ li {
   list-style: none;
 }
 .email {
-  background-color: #006936;
+  background-color: #004e36;
+  border: white 0.2px solid;
   color: white;
   height: 50px;
-  margin-left: 10px;
+  width: 200px;
+  margin-left: 20px;
 }
 .Socials {
   height: 70px;
