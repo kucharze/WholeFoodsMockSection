@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="30" viewBox="0 0 26 30">
+    <defs>
+        <filter id="vhdyt2awta">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g filter="url(#vhdyt2awta)" transform="translate(-1316.000000, -24.000000) translate(1317.000000, 13.000000) translate(0.000000, 12.000000)">
+                    <g stroke="#074E36">
+                        <path stroke-width="2.75" d="M22.5 18V1.5C22.5.672 21.828 0 21 0H1.5C.672 0 0 .672 0 1.5v24c0 .828.672 1.5 1.5 1.5h20c.552 0 1-.448 1-1v-8h0z" transform="translate(0.500000, 0.500000)"/>
+                        <path stroke-width="1.5" d="M3.834 6L18.666 6M3.834 11.25L18.666 11.25M3.834 16.5L11.166 16.5" transform="translate(0.500000, 0.500000)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
