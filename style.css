@@ -1,6 +1,5 @@
 .header {
   background-color: #004e36;
-  /* #004e36 */
   display: flex;
 }
 .navlist {
@@ -15,7 +14,8 @@
   font-size: 18px;
 }
 li {
-  margin-left: 30px;
+  margin-left: 50px;
+  margin-right: 10px;
   color: white;
   margin-top: 10px;
 }
@@ -23,7 +23,7 @@ li {
 .logopic {
   border-right: solid white;
   /* width: 20%; */
-  margin-left: 80px;
+  margin-left: 60px;
   padding: 20px;
 }
 
